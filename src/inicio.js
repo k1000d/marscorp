@@ -13,7 +13,7 @@ function Inicio (props) {
  
     <div id="contenidocodigo" >
       <div className="contraseña">
-   <input type= "numer" placeholder="EL CODIGO" onChange={handleContrasena} value= {password} />
+   <input type= "numer"  onChange={handleContrasena} value= {password} />
    </div>
    <Form>
    
