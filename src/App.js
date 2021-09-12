@@ -2,9 +2,12 @@
 import React, { useEffect, useRef, useState } from 'react';
 
 import './App.css';
-import Inicio from './inicio';
+//import Inicio from './inicio';
 import Mars from './video/mars.mp4';
-import {BrowserRouter} from 'react-router-dom';
+import  Login from "./pages/login";
+import Menu from './pages/menu';
+import {BrowserRouter, Switch, Route} from 'react-router-dom';
+
 function App() {
   
   
@@ -124,7 +127,12 @@ function Video() {
     return (
       <BrowserRouter>
       <Time/>
-      <Inicio/>
+      <Switch>
+      
+     
+      <Route exact path= "/menu" component= {Menu}/>
+      
+      </Switch>
       <Video/>
       </BrowserRouter>
     )

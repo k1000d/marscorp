@@ -1,4 +1,4 @@
-
+/*
 import {useState} from "react";
 import { Form, } from "react-bootstrap";
 import './App.css';
@@ -31,3 +31,4 @@ function Inicio (props) {
     )}
 
   export default Inicio;
+  */
