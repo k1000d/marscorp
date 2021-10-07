@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/marscorp/static/css/main.3da46ad1.chunk.css",
-    "main.js": "/marscorp/static/js/main.a5b330ef.chunk.js",
-    "main.js.map": "/marscorp/static/js/main.a5b330ef.chunk.js.map",
+    "main.js": "/marscorp/static/js/main.bf290547.chunk.js",
+    "main.js.map": "/marscorp/static/js/main.bf290547.chunk.js.map",
     "runtime-main.js": "/marscorp/static/js/runtime-main.c4819fee.js",
     "runtime-main.js.map": "/marscorp/static/js/runtime-main.c4819fee.js.map",
     "static/js/2.8cf68aaa.chunk.js": "/marscorp/static/js/2.8cf68aaa.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c4819fee.js",
     "static/js/2.8cf68aaa.chunk.js",
     "static/css/main.3da46ad1.chunk.css",
-    "static/js/main.a5b330ef.chunk.js"
+    "static/js/main.bf290547.chunk.js"
   ]
 }
