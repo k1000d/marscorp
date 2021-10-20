@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marscorp/static/css/main.8a17bd19.chunk.css",
+    "main.css": "/marscorp/static/css/main.5adaef00.chunk.css",
     "main.js": "/marscorp/static/js/main.badf4795.chunk.js",
     "main.js.map": "/marscorp/static/js/main.badf4795.chunk.js.map",
     "runtime-main.js": "/marscorp/static/js/runtime-main.c4819fee.js",
@@ -10,14 +10,14 @@
     "static/js/3.92b65e89.chunk.js": "/marscorp/static/js/3.92b65e89.chunk.js",
     "static/js/3.92b65e89.chunk.js.map": "/marscorp/static/js/3.92b65e89.chunk.js.map",
     "index.html": "/marscorp/index.html",
-    "static/css/main.8a17bd19.chunk.css.map": "/marscorp/static/css/main.8a17bd19.chunk.css.map",
+    "static/css/main.5adaef00.chunk.css.map": "/marscorp/static/css/main.5adaef00.chunk.css.map",
     "static/js/2.8cf68aaa.chunk.js.LICENSE.txt": "/marscorp/static/js/2.8cf68aaa.chunk.js.LICENSE.txt",
     "static/media/mars.196840f2.mp4": "/marscorp/static/media/mars.196840f2.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.c4819fee.js",
     "static/js/2.8cf68aaa.chunk.js",
-    "static/css/main.8a17bd19.chunk.css",
+    "static/css/main.5adaef00.chunk.css",
     "static/js/main.badf4795.chunk.js"
   ]
 }
