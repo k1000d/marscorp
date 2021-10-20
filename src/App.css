@@ -122,5 +122,16 @@ button {
   
   }
 
-  
+  #center{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: #fff;
+    text-shadow: red;
+    cursor: pointer;
+    letter-spacing: 10px;
+  }
   

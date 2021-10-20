@@ -9,7 +9,13 @@ import Menu from './pages/menu';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
 
 function App() {
-  
+  function Dirección(){
+    return(
+<a id="center" href="https://www.spacemcorp.com/">
+        www.spacemcorp.com
+      </a>
+    )
+  }
   
   
 function Video() {
@@ -55,7 +61,7 @@ function Video() {
   let interval = useRef();
 
   const startTimer = () => {
-    const countdownDate = new Date('Oct 26, 2021 00:00:00').getTime();
+    const countdownDate = new Date('Oct 29, 2021 00:00:00').getTime();
     interval = setInterval(()=> {
       const now = new Date().getTime();
       const distance = countdownDate - now;
@@ -128,7 +134,7 @@ function Video() {
       <BrowserRouter>
       <Time/>
       <Switch>
-      
+      <Dirección/>
      
       <Route exact path= "/menu" component= {Menu}/>
       
